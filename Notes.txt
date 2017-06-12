@@ -1,0 +1,15 @@
+DEV OPS cafe podcast
+
+test driven development
+
+QA, SECURITY, DEVELOPMENT, OPS
+
+CHEF: configuration manager
+
+Nassim Taleb: Anti-Fragile
+
+DevOps Handbook, Gene Kim
+
+Learn Python the Hard Way
+
+Beginner’s guide to Python
